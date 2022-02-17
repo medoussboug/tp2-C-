@@ -1,0 +1,15 @@
+/Users/bougueddach/RiderProjects/tp2/tp2/bin/Debug/net6.0/tp2
+/Users/bougueddach/RiderProjects/tp2/tp2/bin/Debug/net6.0/tp2.deps.json
+/Users/bougueddach/RiderProjects/tp2/tp2/bin/Debug/net6.0/tp2.runtimeconfig.json
+/Users/bougueddach/RiderProjects/tp2/tp2/bin/Debug/net6.0/tp2.dll
+/Users/bougueddach/RiderProjects/tp2/tp2/bin/Debug/net6.0/ref/tp2.dll
+/Users/bougueddach/RiderProjects/tp2/tp2/bin/Debug/net6.0/tp2.pdb
+/Users/bougueddach/RiderProjects/tp2/tp2/obj/Debug/net6.0/tp2.csproj.AssemblyReference.cache
+/Users/bougueddach/RiderProjects/tp2/tp2/obj/Debug/net6.0/tp2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bougueddach/RiderProjects/tp2/tp2/obj/Debug/net6.0/tp2.AssemblyInfoInputs.cache
+/Users/bougueddach/RiderProjects/tp2/tp2/obj/Debug/net6.0/tp2.AssemblyInfo.cs
+/Users/bougueddach/RiderProjects/tp2/tp2/obj/Debug/net6.0/tp2.csproj.CoreCompileInputs.cache
+/Users/bougueddach/RiderProjects/tp2/tp2/obj/Debug/net6.0/tp2.dll
+/Users/bougueddach/RiderProjects/tp2/tp2/obj/Debug/net6.0/ref/tp2.dll
+/Users/bougueddach/RiderProjects/tp2/tp2/obj/Debug/net6.0/tp2.pdb
+/Users/bougueddach/RiderProjects/tp2/tp2/obj/Debug/net6.0/tp2.genruntimeconfig.cache
